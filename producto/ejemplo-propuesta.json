@@ -1,0 +1,13 @@
+{
+  "brand": "Estudio Norte",
+  "client": "Casa Horizonte",
+  "project": "Sistema de reservas y presencia digital",
+  "outcome": "Reducir consultas repetidas y convertir visitas en reservas calificadas.",
+  "weeks": 5,
+  "currency": "$",
+  "items": [
+    {"name": "Diagnóstico y arquitectura", "price": 950},
+    {"name": "Diseño y desarrollo", "price": 2600},
+    {"name": "Entrega y entrenamiento", "price": 650}
+  ]
+}
